@@ -1,0 +1,14 @@
+{
+    "items": [
+          { "title": "Week 0: Scratch", "completed": false, "reflection": "" },
+          { "title": "Week 1: C", "completed": false, "reflection": "" },
+          { "title": "Week 2: Arrays", "completed": false, "reflection": "" },
+          { "title": "Week 3: Algorithms", "completed": false, "reflection": "" },
+          { "title": "Week 4: Memory", "completed": false, "reflection": "" },
+          { "title": "Week 5: Data Structures", "completed": false, "reflection": "" },
+          { "title": "Week 6: Python", "completed": false, "reflection": "" },
+          { "title": "Week 7: SQL", "completed": false, "reflection": "" },
+          { "title": "Week 8: HTML, CSS, JavaScript", "completed": false, "reflection": "" },
+          { "title": "Week 9: Flask", "completed": false, "reflection": "" }
+    ]
+}
