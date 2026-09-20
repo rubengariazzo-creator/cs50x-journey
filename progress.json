@@ -1,14 +1,14 @@
 {
-    "items": [
-          { "title": "Week 0: Scratch", "completed": false, "reflection": "" },
-          { "title": "Week 1: C", "completed": false, "reflection": "" },
-          { "title": "Week 2: Arrays", "completed": false, "reflection": "" },
-          { "title": "Week 3: Algorithms", "completed": false, "reflection": "" },
-          { "title": "Week 4: Memory", "completed": false, "reflection": "" },
-          { "title": "Week 5: Data Structures", "completed": false, "reflection": "" },
-          { "title": "Week 6: Python", "completed": false, "reflection": "" },
-          { "title": "Week 7: SQL", "completed": false, "reflection": "" },
-          { "title": "Week 8: HTML, CSS, JavaScript", "completed": false, "reflection": "" },
-          { "title": "Week 9: Flask", "completed": false, "reflection": "" }
-    ]
+      "items": [
+              { "title": "Week 0: Scratch", "completed": true, "reflection": "Learned foundational programming concepts (sequencing, loops, conditionals, variables, events) through visual block-based programming, before touching any text-based syntax." },
+              { "title": "Week 1: C", "completed": true, "reflection": "Learned to compile and debug C programs, working with variables, types, conditionals, loops, functions, and command-line arguments." },
+              { "title": "Week 2: Arrays", "completed": true, "reflection": "Learned to work with arrays and strings as sequences of characters, plus an introduction to cryptography concepts (basic ciphers) as a motivating application." },
+              { "title": "Week 3: Algorithms", "completed": true, "reflection": "Learned algorithmic complexity (Big O notation), searching algorithms (linear and binary search), several sorting algorithms (bubble, selection, merge sort), and recursion." },
+              { "title": "Week 4: Memory", "completed": true, "reflection": "Learned how memory actually works: pointers, memory addresses, dynamic allocation with malloc/free, the stack vs. the heap, and using Valgrind to catch memory leaks." },
+              { "title": "Week 5: Data Structures", "completed": true, "reflection": "Learned to build dynamic data structures from pointers and structs: linked lists, trees, tries, and hash tables." },
+              { "title": "Week 6: Python", "completed": true, "reflection": "Transitioned from C to Python: dynamic typing, exceptions, libraries, and how much the same algorithmic ideas look different in a higher-level language." },
+              { "title": "Week 7: SQL", "completed": true, "reflection": "Learned relational database design and SQL: writing SELECT/INSERT/UPDATE/DELETE queries, joins, indexes, and why parameterized queries matter for avoiding SQL injection." },
+              { "title": "Week 8: HTML, CSS, JavaScript", "completed": false, "reflection": "" },
+              { "title": "Week 9: Flask", "completed": false, "reflection": "" }
+      ]
 }
