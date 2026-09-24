@@ -8,7 +8,7 @@
               { "title": "Week 5: Data Structures", "completed": true, "reflection": "Learned to build dynamic data structures from pointers and structs: linked lists, trees, tries, and hash tables." },
               { "title": "Week 6: Python", "completed": true, "reflection": "Transitioned from C to Python: dynamic typing, exceptions, libraries, and how much the same algorithmic ideas look different in a higher-level language." },
               { "title": "Week 7: SQL", "completed": true, "reflection": "Learned relational database design and SQL: writing SELECT/INSERT/UPDATE/DELETE queries, joins, indexes, and why parameterized queries matter for avoiding SQL injection." },
-              { "title": "Week 8: HTML, CSS, JavaScript", "completed": false, "reflection": "" },
+              { "title": "Week 8: HTML, CSS, JavaScript", "completed": true, "reflection": "Learned how the web works under the hood: HTTP requests and responses, structuring pages with HTML, styling them with CSS and Bootstrap, and making them interactive with JavaScript and the DOM." },
               { "title": "Week 9: Flask", "completed": false, "reflection": "" }
       ]
 }
